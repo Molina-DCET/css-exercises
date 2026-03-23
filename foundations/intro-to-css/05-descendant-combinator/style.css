@@ -1,1 +1,12 @@
-/* Add CSS Styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 20px;
+}
+
+.container p{
+    background-color: yellow;
+    color: red;
+    font-size:  20px;
+    text-align: center;
+}
